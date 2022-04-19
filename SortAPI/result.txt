@@ -1,0 +1,1 @@
+{"input":"3 4 2 1","results":[{"algo":"bubble","elapsedms":0.3605,"sorted":"1 2 3 4"},{"algo":"insertion","elapsedms":0.375,"sorted":"1 2 3 4"}]}

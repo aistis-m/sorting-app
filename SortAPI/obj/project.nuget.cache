@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIhdOXf5FZpKIQXtTRgsBJ8C8AXoK5Sywct4bW6aAMFz93Lf8wj6cC1ZjL4fyCXPP+7576JiK1vFAtL5gau+PA==",
+  "success": true,
+  "projectFilePath": "/Users/aistismartinkenas/Projects/SortAPI/SortAPI/SortAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/aistismartinkenas/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/aistismartinkenas/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/aistismartinkenas/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/aistismartinkenas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/aistismartinkenas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/aistismartinkenas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
