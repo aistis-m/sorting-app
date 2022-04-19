@@ -1,23 +1,14 @@
-﻿<Properties StartupConfiguration="{2B9A4144-0BDE-4684-A6B9-30699D89DA64}|Default">
+﻿<Properties StartupConfiguration="{A42131F1-D311-48A1-9E2E-747C2608F509}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.SortAPI PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SortAPI/Controllers/ResultController.cs">
+  <MonoDevelop.Ide.ItemProperties.SortAPI PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortAPI/Controllers/SortController.cs">
     <Files>
-      <File FileName="SortAPI/Program.cs" Line="20" Column="1" />
-      <File FileName="SortAPI/Controllers/EmptyClass.cs" Line="30" Column="25" />
-      <File FileName="SortAPI/EmptyClass.cs" Line="17" Column="1" />
-      <File FileName="SortAPI/SortResult.cs" Line="17" Column="6" />
-      <File FileName="SortAPI/Sorter.cs" Line="20" Column="49" />
-      <File FileName="SortAPI/BubbleSort.cs" Line="27" Column="6" />
-      <File FileName="SortAPI/ISortingAlgo.cs" Line="11" Column="1" />
-      <File FileName="SortAPI/InsertionSort.cs" Line="25" Column="6" />
-      <File FileName="SortAPI/Controllers/ResultController.cs" Line="15" Column="28" />
-      <File FileName="Tests/UnitTest1.cs" Line="10" Column="43" />
+      <File FileName="SortAPI/Controllers/ResultController.cs" Line="1" Column="1" />
+      <File FileName="SortAPI/Controllers/SortController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,19 +16,13 @@
           <Node name="SortAPI" expanded="True">
             <Node name="SortAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="src" expanded="True" />
             </Node>
-            <Node name="Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="SortAPI" expanded="True" selected="True" />
-        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
