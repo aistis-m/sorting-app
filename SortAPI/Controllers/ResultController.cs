@@ -10,10 +10,10 @@ public class ResultController : ControllerBase
 
     private readonly ILogger<ResultController> _logger;
 
-    //public ResultController(ILogger<ResultController> logger)
-    //{
-    //    _logger = logger;
-    //}
+    public ResultController(ILogger<ResultController> logger)
+    {
+        _logger = logger;
+    }
 
     [HttpGet(Name = "result")]
     public IEnumerable<SortResponse> Get()
